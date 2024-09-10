@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "age": 30,
+        "address": {
+            "street": "123 Main St",
+            "city": "Springfield",
+            "state": "IL",
+            "postalCode": "62701"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "age": 25,
+        "address": {
+            "street": "456 Elm St",
+            "city": "Springfield",
+            "state": "IL",
+            "postalCode": "62702"
+        }
+    }
+]
